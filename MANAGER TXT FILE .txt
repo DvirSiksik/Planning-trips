@@ -1,0 +1,268 @@
+6
+13 4 2024
+18.61
+3.8
+clear sky
+14 4 2024
+21.86
+1.74
+clear sky
+15 4 2024
+22.32
+3.54
+light rain
+16 4 2024
+26.72
+0.71
+clear sky
+17 4 2024
+29.79
+2.92
+clear sky
+18 4 2024
+26.82
+6.72
+broken clouds
+13 4 2024
+21.32
+4.13
+clear sky
+14 4 2024
+23.94
+7.15
+clear sky
+15 4 2024
+23.64
+3.2
+light rain
+16 4 2024
+28.26
+3.48
+clear sky
+17 4 2024
+30.92
+2.48
+clear sky
+18 4 2024
+29.10
+4.99
+broken clouds
+13 4 2024
+19.31
+7.91
+scattered clouds
+14 4 2024
+21.18
+7.28
+clear sky
+15 4 2024
+20.21
+6.2
+light rain
+16 4 2024
+25.64
+2.8
+clear sky
+17 4 2024
+29.98
+3.77
+clear sky
+18 4 2024
+26.88
+4.17
+scattered clouds
+13 4 2024
+21.54
+3.77
+scattered clouds
+14 4 2024
+21.38
+5.09
+clear sky
+15 4 2024
+22.03
+4.59
+clear sky
+16 4 2024
+24.81
+5.38
+clear sky
+17 4 2024
+28.05
+3.97
+clear sky
+18 4 2024
+24.74
+3.36
+scattered clouds
+13 4 2024
+22.37
+6.69
+clear sky
+14 4 2024
+23.75
+6.69
+clear sky
+15 4 2024
+24.39
+7.91
+clear sky
+16 4 2024
+29.50
+2.09
+clear sky
+17 4 2024
+33.87
+2.4
+clear sky
+18 4 2024
+26.99
+8.82
+scattered clouds
+13 4 2024
+29.92
+9.49
+clear sky
+14 4 2024
+28.85
+7.51
+clear sky
+15 4 2024
+28.10
+7.35
+clear sky
+16 4 2024
+32.71
+4.05
+clear sky
+17 4 2024
+31.52
+5.49
+few clouds
+18 4 2024
+33.19
+0.46
+scattered clouds
+4
+Bental reservoir
+Large and beautiful water reservoir in the Golan region located north of Kibbutz Marom Golan.The combination between the flow of the cold and the hot water creates very pleasant water for bathing in the winter. The water temperature reach to 45 deg.
+1
+12.00
+1
+0
+0
+3
+OpenShoes
+Towel
+Swim suite
+Amud river and Miron river
+Miron river, whose waters flow into Amud river. Amud river meanders between ponds, orchards, fruit trees, giving the feeling of a trip to paradise.
+0
+27.00
+3
+1
+3
+1
+CloseShoes
+Yad Cenedi
+Possible for circular way or extend it and finish at a different point. It is suitable for all ages and passes between cool pools of water. In the Aminadav forest itself, there are plenty of cycling routes for cycling enthusiasts.
+2
+30.00
+0
+1
+2
+1
+CloseShoes
+sea to sea
+One of the most beautiful journey in our country. Take 3-4 days. The average time for hike is 10 hours per day.
+0
+25.00
+3
+2
+10
+4
+CloseShoes
+OpenShoes
+Towel
+Swim suite
+3
+tal
+tubul
+t_t
+211345432
+26
+tttyyyuuu
+yuyuyu
+8997889
+09099
+5
+0
+dvir
+siksik
+d_s
+318982725
+26
+dvirsiksik@gmail.com
+ramat gan
+suzuki
+DV262
+5
+1
+Amud river and Miron river
+Miron river, whose waters flow into Amud river. Amud river meanders between ponds, orchards, fruit trees, giving the feeling of a trip to paradise.
+0
+27.00
+3
+1
+3
+1
+CloseShoes
+16 4 2024
+rotem
+ler
+r_l
+322643081
+23
+rotem.ler@gmail.com
+rishon lezion
+hunday
+RL202
+5
+2
+sea to sea
+One of the most beautiful journey in our country. Take 3-4 days. The average time for hike is 10 hours per day.
+0
+25.00
+3
+2
+10
+4
+Swim suite
+Towel
+OpenShoes
+CloseShoes
+Yad Cenedi
+Possible for circular way or extend it and finish at a different point. It is suitable for all ages and passes between cool pools of water. In the Aminadav forest itself, there are plenty of cycling routes for cycling enthusiasts.
+2
+30.00
+0
+1
+2
+1
+CloseShoes
+15 4 2024
+17 4 2024
+2
+Hacienda
+0
+1
+Swimming pool
+1500
+1
+King david
+2
+1
+Restaurant
+1200
+1
+0
